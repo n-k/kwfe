@@ -1,0 +1,10 @@
+[package]
+name = "kwfe"
+version = "0.1.0"
+edition = "2018"
+authors = ["nk"]
+license="MIT"
+description = "Kubernetes workflow engine"
+repository = "https://github.com/n-k/kwfe"
+
+[dependencies]
